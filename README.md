@@ -41,10 +41,6 @@ A simple, dark [Alfred](http://www.alfredapp.com/#download) Theme that doesn't s
 ## Open New Chrome (or Canary) Incognito Window
 An [Alfred](http://www.alfredapp.com/#download) workflow to open a new [Google Chrome Canary](https://www.google.com/chrome/browser/canary.html), or [Chrome](https://www.google.com/chrome/), Incognito window.
 
-[Download](https://github.com/wad3g/alfred-workflows/raw/master/alfred-chrome-canary-incognito/Chrome:Canary%20Incognito.alfredworkflow)
-
-![canary](./media/chrome-incognito.gif "Chrome Canary Incognito Window")
-
 ### Usage
 - Type `ccincog` OR `double-tap ⌘` (command) for Google Chrome Canary Incognito Window
 
