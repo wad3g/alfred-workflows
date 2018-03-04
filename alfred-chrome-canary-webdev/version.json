@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "repo": "alfred-chrome-canary-incognito",
+  "description": "Alfred Workflow to open a new Google Chrome Canary Incognito Window",
+  "url": "https://github.com/wad3g/alfred-workflows/alfred-chrome-canary-incognito",
+  "download": "https://github.com/wad3g/alfred-workflows/alfred-chrome-canary-incognito/blob/master/Chrome:Canary%20Incognito.alfredworkflow?raw=true",
+  "author": "wad3g"
+}

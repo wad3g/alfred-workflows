@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "repo": "alfred-toggle-night-shift",
+  "description": "Alfred Workflow to open Toggle Night Shift",
+  "url": "https://github.com/wad3g/alred-workflows/alfred-toggle-night-shift",
+  "download": "https://github.com/wad3g/alred-workflows/alfred-toggle-night-shift/raw/master/alfred-toggle-night-shift.alfredworkflow",
+  "author": "wad3g"
+}

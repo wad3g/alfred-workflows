@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "repo": "alfred-open-app-on-hotkey",
+  "description": "Alfred Workflow to open an app (when not running) if it's hotkey is triggered",
+  "url": "https://github.com/wad3g/alfred-workflows/alfred-open-app-on-hotkey",
+  "download": "https://github.com/wad3g/alfred-workflows/alfred-open-app-on-hotkey/raw/master/alfred-open-app-on-hotkey.alfredworkflow",
+  "author": "wad3g"
+}
